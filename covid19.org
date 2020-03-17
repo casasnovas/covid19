@@ -1,0 +1,141 @@
+* Chloroquine
+
+** 2005/08/22 Publication - Chloroquine is a potent inhibitor of SARS
+   https://virologyj.biomedcentral.com/articles/10.1186/1743-422X-2-69
+
+   """Postinfection chloroquine treatment is effective in preventing the
+   spread of SARS-CoV infection"""
+
+** 2009 Publication - Chloroquine works in mouse for OC43
+   https://www.ncbi.nlm.nih.gov/m/pubmed/19506054/
+
+** 2019/06/14 Publication - Hydroxychloroquine/chloroquine toxicity
+   20190604-chloroquine-toxicity.pdf
+   https://www.ncbi.nlm.nih.gov/books/NBK537086/
+
+   """A cumulative dose of over 460 g or a daily dose of 2.3 mg/kg body
+   weight/day is high risk."""
+
+   Half-life => a month
+   Full elimination from the body => 6 months
+
+   Treatment recommended in various guidelines, load dose 2*500mg first
+   day, 500mg/day for 4 days => 3g in the body, safe.
+
+** 2020/02/04 Publication - Chloroquine tests in vitro against Covid-19
+   20200204-chloroquine-in-vitro-against-sars-cov-2.pdf
+   https://www.nature.com/articles/s41422-020-0282-0#Fig1
+
+   """Our time-of-addition assay demonstrated that chloroquine functioned
+   at both entry, and at post-entry stages of the 2019-nCoV infection in
+   Vero E6 cells (Fig. 1c, d). Besides its antiviral activity, chloroquine
+   has an immune-modulating activity, which may synergistically enhance its
+   antiviral effect in vivo. Chloroquine is widely distributed in the whole
+   body, including lung, after oral administration. The EC90 value of
+   chloroquine against the 2019-nCoV in Vero E6 cells was 6.90 μM, which
+   can be clinically achievable as demonstrated in the plasma of rheumatoid
+   arthritis patients who received 500 mg administration.11 Chloroquine is
+   a cheap and a safe drug that has been used for more than 70 years and,
+   therefore, it is potentially clinically applicable against the
+   2019-nCoV."""
+
+
+** 2020/02/13 Article Korea Biomedical Review - South Korea Covid-19 treatments guidelines
+   20200213-sk-treatment-guidelines.pdf
+   http://m.koreabiomed.com/news/articleView.html?idxno=7428
+
+
+** 2020/02/18 Advance publication (not peer reviewed) - clinical trials in China
+   20200218-advance-publication-clinical-trials.pdf
+   https://www.jstage.jst.go.jp/article/bst/advpub/0/advpub_2020.01047/_pdf/-char/en
+
+   """ Thus far, results from more than 100 patients have demonstrated that
+   chloroquine phosphate is superior to the control treatment in inhibiting
+   the exacerbation of pneumonia, improving lung imaging findings,
+   promoting a virusnegative conversion, and shortening the disease course
+   according to the news briefing. Severe adverse reactions to chloroquine
+   phosphate were not noted in the aforementioned patients."""
+
+   Results in May 2020: https://clinicaltrials.gov/ct2/show/results/NCT04307693
+
+
+** 2020/02/18 China 6th revision of Covid-19 treatments guidelines
+   20200218-china-treatments-guidelines-covid19-rev6.pdf
+   http://www.nhc.gov.cn/xcs/zhengcwj/202002/8334a8326dd94d329df351d7da8aefc2/files/b218cfeb1bc54639af227f922bf6b817.pdf
+
+   Include uses of chloroquine phosphate for patients < 65, 500mg twice
+   first day, then 500mg each day for 9 days.
+
+** 2020/02/22 News article - Pakistan provides 315 000 chloroquine tablets to China
+   20200222-pakistan-gives-315000-china.pdf
+   http://en.ce.cn/main/latest/202002/22/t20200222_34330227.shtml
+
+   """he official Weibo account of Bayer China confirmed the news and said
+   that the batch of medicines was completed in 24 hours. 200,000 of the
+   300,000 tablets were "sold" to Guangzhou Pharmaceutical Holdings Limited
+   (GPHL) at zero yuan. Earlier, Economic Daily reported that on February
+   5th, GPHL first purchased 15,000 tablets of chloroquine phosphate in
+   Pakistan through various channels, and then purchased another 200,000
+   tablets. The drugs arrived in Guangzhou at 7:00 p.m. on February 8th."""
+
+** 2020/03 Dutch Covid-19 treatment guidelines
+   202003-dutch-guidelines-treatment-covid19.pdf
+   https://lci.rivm.nl/sites/default/files/2020-03/COVID19%20Voorlopig%20behandeladvies.pdf
+
+** 2020/03/02 China 7th revision of Covid-19 treatments guidelines
+   20200303-china-treatments-guidelines-covid19-rev7.pdf
+   http://www.nhc.gov.cn/yzygj/s7653p/202003/46c9294a7dfe4cef80dc7f5912eb1989/files/ce3e6945832a438eaae415350a8ce964.pdf
+
+   Partial english translation from a reddit user:
+   https://www.scribd.com/document/451871363/Novel-Coronavirus-Pneumonia-Diagnosis-Treatment
+
+   Include uses of chloroquine phosphate for patients < 65, 500mg twice
+   first & second day, then 500mg each day for 7 days.
+
+** 2020/03/04 Academic comment - chloroquine as available weapon to fight covid19   
+   https://www.sciencedirect.com/science/article/pii/S0924857920300820
+
+** 2020/03/09 News article - Confirmed cases are clear of the virus 4.4 days after chlorquine treatment
+   http://news.southcn.com/nfplus/gdjktt/content/2020-03/09/content_190536632.htm
+
+** 2020/03/13 DoHSC Gov. UK - UK ban exportations of chloroquine
+   20200313-uk-ban-parallel-exports-hydroxychloroquine.pdf
+   https://www.gov.uk/government/publications/medicines-that-cannot-be-parallel-exported-from-the-uk
+
+   2020/02/26: chloroquine phosphate is banned
+   2020/03/13: hydroxychloroquine is banned
+
+** 2020/03/14: Publication - 2 cases studies - kametra didn't improve patients condition, chloroquine did
+   20200314-japan-2-cases-studies-chloroquine.pdf
+   http://www.kansensho.or.jp/uploads/files/topics/2019ncov/covid19_casereport_200312_5.pdf
+
+** 2020/03/10: Advance publication - sars-cov-2 inhibits heme metabolism
+   20200310-covid19-inhibits-heme-metabolism.pdf
+   https://chemrxiv.org/articles/COVID-19_Disease_ORF8_and_Surface_Glycoprotein_Inhibit_Heme_Metabolism_by_Binding_to_Porphyrin/11938173
+
+
+
+* SARS-COV-2 properties
+
+** Publication - Covid19 less severe in children
+  20200316-covid19-less-severe-for-children.pdf
+  https://www.aappublications.org/news/2020/03/16/coronavirus031620
+
+** Reinfection cannot happen in macaques
+  20200314-reinfection-does-not-happen-macaques.pdf
+  https://www.biorxiv.org/content/10.1101/2020.03.13.990226v1
+
+  Unlikely to be possible in humans.
+
+* CFR
+** Why Italy CFR is so big
+  20200316-cfr-italy-vs-sk-and-france.pdf
+  https://coronawiki.org/page/new-coronavirus-why-its-so-deadly-in-italy
+
+** Data with sources on confirmed/deaths/etc.
+  https://www.worldometers.info/coronavirus/
+
+* Misc
+** Understanding exponentials/logistics - why it is important to lock down
+  https://feld.com/archives/2020/03/exponential-growth-and-covid-19.html
+   
