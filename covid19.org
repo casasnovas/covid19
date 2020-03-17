@@ -1,5 +1,4 @@
 * Chloroquine
-
 ** 2005/08/22 Publication - Chloroquine is a potent inhibitor of SARS
    https://virologyj.biomedcentral.com/articles/10.1186/1743-422X-2-69
 
@@ -39,11 +38,9 @@
    therefore, it is potentially clinically applicable against the
    2019-nCoV."""
 
-
 ** 2020/02/13 Article Korea Biomedical Review - South Korea Covid-19 treatments guidelines
    20200213-sk-treatment-guidelines.pdf
    http://m.koreabiomed.com/news/articleView.html?idxno=7428
-
 
 ** 2020/02/18 Advance publication (not peer reviewed) - clinical trials in China
    20200218-advance-publication-clinical-trials.pdf
@@ -57,7 +54,6 @@
    phosphate were not noted in the aforementioned patients."""
 
    Results in May 2020: https://clinicaltrials.gov/ct2/show/results/NCT04307693
-
 
 ** 2020/02/18 China 6th revision of Covid-19 treatments guidelines
    20200218-china-treatments-guidelines-covid19-rev6.pdf
@@ -113,6 +109,9 @@
    20200310-covid19-inhibits-heme-metabolism.pdf
    https://chemrxiv.org/articles/COVID-19_Disease_ORF8_and_Surface_Glycoprotein_Inhibit_Heme_Metabolism_by_Binding_to_Porphyrin/11938173
 
+
+** 2020/03/16: Video - Raoult confirms 24 cases clear of the virus after 6 days
+   https://www.youtube.com/watch?v=n4J8kydOvbc
 
 
 * SARS-COV-2 properties
